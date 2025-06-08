@@ -1,0 +1,68 @@
+body{
+    background-color :aquamarine;
+    font-family :Arial, Helvetica, sans-serif;
+    min-height: 400px;
+    min-width: 400px;
+}
+h1{
+    text-align :center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-style: italic;
+    text-shadow:2px 2px 5px black;
+    background-color:violet;
+}
+input{
+    width :100% ;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: 2 auto;
+    font-size: 15px;
+}
+button{
+    margin-top: 10px;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+#save-tab{
+    margin-top: 10px;
+    background-color: greenyellow;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    font-style: italic;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#delete-el{
+    margin-top: 10px;
+    display: block;
+    margin: 2 auto;
+    background-color: red;
+    color: cornsilk;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: sans-serif;
+    }
